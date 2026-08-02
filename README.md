@@ -396,3 +396,6 @@ Open_To:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=120&section=footer"/>
 
 </div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jeevaananthk2006/jeevaananthk2006/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
